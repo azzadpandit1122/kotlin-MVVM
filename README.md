@@ -15,4 +15,4 @@
 </p>
 
 APK location please download
-https://github.com/azzadpandit1122/kotlin-MVVM/tree/main/app
+https://github.com/azzadpandit1122/kotlin-MVVM/blob/main/app/app-debug.apk
